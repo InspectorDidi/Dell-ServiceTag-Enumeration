@@ -3,6 +3,7 @@ Dell servicetag enumeration using customer number iteration
 
 ## Requirements
 Selenium
+
 ChromeDriver
 
 ## Credits
